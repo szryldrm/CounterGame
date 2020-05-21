@@ -1,0 +1,1 @@
+Player get a (counter: 2) message 'Its Initator, My Message Counter? ' from Initator
